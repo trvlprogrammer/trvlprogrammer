@@ -20,7 +20,7 @@ I am Fatih, a backend developer from Indonesia.
 - 📫 You can reach me: <a href="https://www.linkedin.com/in/alfatihridhont/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- :guitar: Important : I used to a be guitarist when I was in college student. :rofl:
+- :guitar: Important: I used to a be guitarist when I was in college student. :rofl:
 
 ---
 
