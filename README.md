@@ -15,7 +15,7 @@
 
 :man_technologist: About Me :
 I am Fatih, a backend developer from Indonesia.
-- 🔭 Currently freelancing as Backend Developer on <a href="https://www.upwork.com/freelancers/~01533b5abe7689cc1f?viewMode=1">Upwork.<a/>
+- 🔭 Currently freelancing as a Backend Developer on <a href="https://www.upwork.com/freelancers/~01533b5abe7689cc1f?viewMode=1">Upwork.<a/>
 - 🌱 My next goal is to be fullstack developer, currently I am learning about frontend.
 - 📫 You can reach me: <a href="https://www.linkedin.com/in/alfatihridhont/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
