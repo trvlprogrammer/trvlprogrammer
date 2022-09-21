@@ -12,12 +12,12 @@
 </div>
 <div>
 <div/>
-
+---
 <!--### Hi there 👋-->
-👋 About me :
+### :man_technologist: About Me :
+I am a back end developer from Indonesia.
 - 🔭 I’m currently working on <a href="https://www.upwork.com/freelancers/~01533b5abe7689cc1f?viewMode=1">Upwork<a/> as a freelance backend developer
 - 🌱 Currently learning front end , because my goal is to be full stack developer
-- 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alfatihridhont/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
