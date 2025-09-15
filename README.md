@@ -12,7 +12,7 @@
 
 
 Hi There !! I am Alfatih, an Odoo / Backend developer from Indonesia.
-- 🔭 Currently freelancing as a Odoo / Backend Developer on <a href="https://www.upwork.com/freelancers/~01533b5abe7689cc1f?viewMode=1">Upwork.<a/>
+- 🔭 Currently freelancing as an Odoo / Backend Developer on <a href="https://www.upwork.com/freelancers/~01533b5abe7689cc1f?viewMode=1">Upwork.<a/>
 - 🌱 My next goal is to be fullstack developer, still learning about frontend.
 - :guitar: Important: I used to a be guitarist when I was in college student. :rofl:
 
